@@ -1,5 +1,5 @@
 <p align="center">
-<img src="doc/OLEX.PNG" align="center" width="250" height="125"/> 
+<img src="doc/OLEX.png" align="center" width="250" height="125"/> 
  </p>
 
 # OLEX
