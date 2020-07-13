@@ -74,7 +74,5 @@ namespace olex {
 		}
 		void register_item(lexical_item li) { items.push_back(li); }
 		void set_string_identifier(char c) { _string_ident = c; }
-		void set_int_identifier(std::string ii) { _int_ident = ii; }
-		void set_float_identifier(std::string fi) { _float_ident = fi; }
 	};
 }
