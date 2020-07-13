@@ -44,7 +44,7 @@ namespace olex {
 
 	token_item tokenizer::get_next_token() {
 		/*
-		When you have requested the whole line, we load
+		When you have requested until end of line, we load
 		in the next one.
 		We do this to prevent large memory usage, if the file
 		are very big, we do not want to load all into memory.
